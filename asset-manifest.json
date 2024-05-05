@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/food-ordering-app/static/css/main.00fa56e7.css",
-    "main.js": "/food-ordering-app/static/js/main.84107922.js",
-    "static/js/453.ef41bcbd.chunk.js": "/food-ordering-app/static/js/453.ef41bcbd.chunk.js",
-    "static/media/strawberrylemonade.png": "/food-ordering-app/static/media/strawberrylemonade.f64e1021551bf537ccaa.png",
-    "static/media/PassionFruit.png": "/food-ordering-app/static/media/PassionFruit.cb27daec37d4bd0081a2.png",
-    "static/media/Group 2 (9).png": "/food-ordering-app/static/media/Group 2 (9).81756ab0ac02cc7e14c1.png",
-    "static/media/ChocoFrappe (1).png": "/food-ordering-app/static/media/ChocoFrappe (1).a224bbafaf4aef980d81.png",
-    "static/media/bluelemonade (1).png": "/food-ordering-app/static/media/bluelemonade (1).e092b05f94762c674db7.png",
-    "static/media/StrawberryMilkshake (2).png": "/food-ordering-app/static/media/StrawberryMilkshake (2).c7702e389703ac195dd1.png",
-    "static/media/avc.png": "/food-ordering-app/static/media/avc.7869f656b6679532fd2f.png",
-    "static/media/OreoGalaxy (2) (1).png": "/food-ordering-app/static/media/OreoGalaxy (2) (1).bccd59e15c660eaed336.png",
-    "static/media/ChickenEmpanada (1).png": "/food-ordering-app/static/media/ChickenEmpanada (1).a6968994a544099631bc.png",
-    "static/media/BeefEmpanada (2).png": "/food-ordering-app/static/media/BeefEmpanada (2).1c4c2b996975f1e16af6.png",
-    "static/media/MangoDelight.png": "/food-ordering-app/static/media/MangoDelight.a378ae3c2f24dd5842b1.png",
-    "index.html": "/food-ordering-app/index.html",
-    "main.00fa56e7.css.map": "/food-ordering-app/static/css/main.00fa56e7.css.map",
-    "main.84107922.js.map": "/food-ordering-app/static/js/main.84107922.js.map",
-    "453.ef41bcbd.chunk.js.map": "/food-ordering-app/static/js/453.ef41bcbd.chunk.js.map"
+    "main.css": "/AVC-food-ordering-app/static/css/main.00fa56e7.css",
+    "main.js": "/AVC-food-ordering-app/static/js/main.424b2bf5.js",
+    "static/js/453.ef41bcbd.chunk.js": "/AVC-food-ordering-app/static/js/453.ef41bcbd.chunk.js",
+    "static/media/strawberrylemonade.png": "/AVC-food-ordering-app/static/media/strawberrylemonade.f64e1021551bf537ccaa.png",
+    "static/media/PassionFruit.png": "/AVC-food-ordering-app/static/media/PassionFruit.cb27daec37d4bd0081a2.png",
+    "static/media/Group 2 (9).png": "/AVC-food-ordering-app/static/media/Group 2 (9).81756ab0ac02cc7e14c1.png",
+    "static/media/ChocoFrappe (1).png": "/AVC-food-ordering-app/static/media/ChocoFrappe (1).a224bbafaf4aef980d81.png",
+    "static/media/bluelemonade (1).png": "/AVC-food-ordering-app/static/media/bluelemonade (1).e092b05f94762c674db7.png",
+    "static/media/StrawberryMilkshake (2).png": "/AVC-food-ordering-app/static/media/StrawberryMilkshake (2).c7702e389703ac195dd1.png",
+    "static/media/avc.png": "/AVC-food-ordering-app/static/media/avc.7869f656b6679532fd2f.png",
+    "static/media/OreoGalaxy (2) (1).png": "/AVC-food-ordering-app/static/media/OreoGalaxy (2) (1).bccd59e15c660eaed336.png",
+    "static/media/ChickenEmpanada (1).png": "/AVC-food-ordering-app/static/media/ChickenEmpanada (1).a6968994a544099631bc.png",
+    "static/media/BeefEmpanada (2).png": "/AVC-food-ordering-app/static/media/BeefEmpanada (2).1c4c2b996975f1e16af6.png",
+    "static/media/MangoDelight.png": "/AVC-food-ordering-app/static/media/MangoDelight.a378ae3c2f24dd5842b1.png",
+    "index.html": "/AVC-food-ordering-app/index.html",
+    "main.00fa56e7.css.map": "/AVC-food-ordering-app/static/css/main.00fa56e7.css.map",
+    "main.424b2bf5.js.map": "/AVC-food-ordering-app/static/js/main.424b2bf5.js.map",
+    "453.ef41bcbd.chunk.js.map": "/AVC-food-ordering-app/static/js/453.ef41bcbd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00fa56e7.css",
-    "static/js/main.84107922.js"
+    "static/js/main.424b2bf5.js"
   ]
 }
